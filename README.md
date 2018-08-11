@@ -1,2 +1,2 @@
 # challenge-solutions
-Solutions for Mason ACM mystery coding challenges, written in VB.net
+Solutions for @TheMasonACM mystery coding challenges, written in VB.net
